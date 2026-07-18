@@ -21,11 +21,12 @@ Digital Forensics Analyst specializing in DFIR, SOC operations, and incident res
 ## Toolkit
 
 ![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-e63946?style=for-the-badge)
-![Cellebrite](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge)
+![Cellebrite UFED](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge)
 ![Autopsy](https://img.shields.io/badge/Autopsy-e76f51?style=for-the-badge)
-![KAPE](https://img.shields.io/badge/KAPE-f4a261?style=for-the-badge)
+![Eric Zimmerman's Tools](https://img.shields.io/badge/EricZimmerman'sTools-f4a261?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge)
+![Belkasoft ](https://img.shields.io/badge/Belkasoft-457b9d?style=for-the-badge)
 
 <br>
 
