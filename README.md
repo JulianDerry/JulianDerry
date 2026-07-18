@@ -26,14 +26,12 @@ Digital Forensics Analyst specializing in DFIR, SOC operations, and incident res
 ![KAPE](https://img.shields.io/badge/KAPE-f4a261?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 <br>
 
 ## What I do
 
-I reconstruct what happened — on disk, in memory, on a phone, or in a car's infotainment system — and turn it into evidence that holds up. My work spans the full incident lifecycle: acquisition, analysis, detection, and reporting.
+I reconstruct what happened on disk, in memory, on a phone, or in a car's infotainment system, and turn it into evidence that holds up. My work spans the full incident lifecycle: acquisition, analysis, detection, and reporting.
 
 ```
 acquire evidence → analyze artifacts → reconstruct timeline → detect threats → report findings
@@ -84,12 +82,11 @@ acquire evidence → analyze artifacts → reconstruct timeline → detect threa
 
 ## SOC & detection
 
-| Area | Level |
-|---|---|
-| SIEM (Splunk, Sentinel) | ![Advanced](https://img.shields.io/badge/Advanced-2ea44f?style=flat-square) |
-| Threat Hunting | ![Proficient](https://img.shields.io/badge/Proficient-dfb317?style=flat-square) |
-| Detection Engineering (Sigma, KQL) | ![Developing](https://img.shields.io/badge/Developing-fe7d37?style=flat-square) |
-
+| Area |
+|---|
+| SIEM (Splunk, Sentinel) | 
+| Threat Hunting |
+| Detection Engineering (KQL) |
 Mapped against **MITRE ATT&CK** throughout.
 
 <br>
@@ -107,7 +104,6 @@ Mapped against **MITRE ATT&CK** throughout.
 ## Right now
 
 - 🔬 Deep-diving advanced memory forensics techniques
-- 🛠️ Building out detection engineering content for the SOC
 - 🧵 Writing up malware investigation case studies
 - 📝 Sharpening digital evidence reporting for court/legal standards
 
