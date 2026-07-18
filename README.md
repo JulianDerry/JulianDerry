@@ -172,7 +172,7 @@ Applied:
 | Certification                               | Organization                         |
 | ------------------------------------------- | ------------------------------------ |
 | Licensed Digital Forensics Professional     | Cyber Security Authority (CSA) Ghana |
-| Certified Computer Forensics Analyst (CCFA) | —                                    |
+| Certified Computer Forensics Analyst (CCFA) | eSecurity Institute                  |
 | Certified in Cybersecurity (CC)             | ISC2                                 |
 | Google Cybersecurity Certificate            | Google                               |
 
