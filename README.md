@@ -1,51 +1,70 @@
-------------------------------------------------
-              ANIMATED HEADER IMAGE
-------------------------------------------------
-
-        👋 Hi, I'm Julian Derry
-
- Digital Forensics | SOC Analyst | DFIR
-
- [LinkedIn] [X] [Portfolio] [Views]
+╔══════════════════════════════════════╗
+║          DIGITAL FORENSICS            ║
+║          INCIDENT RESPONSE             ║
+║          SOC OPERATIONS                ║
+╚══════════════════════════════════════╝
 
 
-⚡ About Me
-
-- DFIR analyst
-- SOC analyst
-- Windows forensic investigations
-- Mobile forensic investigations
+        Julian Derry
+        DFIR Analyst | SOC Analyst
 
 
-🛠 Languages & Tools
-
-[Python] [PowerShell] [Linux] [Splunk]
-[Volatility] [KAPE] [Autopsy] ...
+[ LinkedIn ] [ GitHub ] [ X ]
 
 
-🚨 DFIR Projects
+🕵️ PROFILE
 
-🪟 Windows Forensics
-🧠 Memory Forensics
-📱 Android Forensics
-🍎 iOS Forensics
-🚗 Vehicle Forensics
-
-
-📊 GitHub Stats
-
-[Stats Card] [Top Languages]
+Digital investigations.
+Threat detection.
+Evidence analysis.
+Incident response.
 
 
-🏆 Achievements
+┌─────────────────────────────────────┐
+│              SPECIALIZATIONS        │
+├─────────────────────────────────────┤
+│ 🪟 Windows Forensics                │
+│ 🧠 Memory Analysis                  │
+│ 📱 Mobile Forensics                 │
+│ 🍎 iOS Investigation                │
+│ 🚨 SOC Monitoring                   │
+│ 🔍 Threat Hunting                   │
+└─────────────────────────────────────┘
 
-[Trophy Card]
+
+TOOLS
+
+[Magnet AXIOM] [Autopsy] [KAPE]
+[Volatility] [Cellebrite] [Splunk]
+[Sentinel] [Wireshark] [Python]
 
 
-🐍 Contribution Snake
+CASE FILES
+
+📁 Windows Artifact Investigations
+
+📁 Memory Forensics Reports
+
+📁 Mobile Device Examinations
+
+📁 SOC Detection Labs
+
+📁 Incident Response Writeups
 
 
-📫 Connect With Me
+STATISTICS
+
+GitHub Stats
+Contribution Graph
+Streak
 
 
-------------------------------------------------
+CURRENT OPERATIONS
+
+> Learning:
+> Detection Engineering
+> Malware Analysis
+> Advanced DFIR
+
+
+"Every artifact leaves a trace."
