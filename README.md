@@ -10,13 +10,24 @@
 
 Digital Forensics Analyst specializing in DFIR, SOC operations, and incident response.
 
+![Status](https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge)
+![Role](https://img.shields.io/badge/role-Digital%20Forensics%20Analyst-1f6feb?style=for-the-badge)
+![Focus](https://img.shields.io/badge/focus-DFIR%20%7C%20SOC%20%7C%20IR-8250df?style=for-the-badge)
+
 </div>
 
 <br>
 
 ## Toolkit
 
-`Magnet AXIOM` `Cellebrite` `Autopsy` `KAPE` `Volatility` `FTK Imager` `Python` `PowerShell`
+![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-e63946?style=for-the-badge)
+![Cellebrite](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-e76f51?style=for-the-badge)
+![KAPE](https://img.shields.io/badge/KAPE-f4a261?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 <br>
 
@@ -75,9 +86,9 @@ acquire evidence → analyze artifacts → reconstruct timeline → detect threa
 
 | Area | Level |
 |---|---|
-| SIEM (Splunk, Sentinel) | ●●●●● |
-| Threat Hunting | ●●●●○ |
-| Detection Engineering (Sigma, KQL) | ●●●○○ |
+| SIEM (Splunk, Sentinel) | ![Advanced](https://img.shields.io/badge/Advanced-2ea44f?style=flat-square) |
+| Threat Hunting | ![Proficient](https://img.shields.io/badge/Proficient-dfb317?style=flat-square) |
+| Detection Engineering (Sigma, KQL) | ![Developing](https://img.shields.io/badge/Developing-fe7d37?style=flat-square) |
 
 Mapped against **MITRE ATT&CK** throughout.
 
@@ -85,11 +96,11 @@ Mapped against **MITRE ATT&CK** throughout.
 
 ## Case files
 
-```
-CASE-001  Windows Artifact Investigation     [ done ]
-CASE-002  Memory Malware Analysis            [ done ]
-CASE-003  Vehicle Digital Investigation      [ in progress ]
-```
+| Case | Description | Status |
+|---|---|---|
+| **CASE-001** | Windows Artifact Investigation | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
+| **CASE-002** | Memory Malware Analysis | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
+| **CASE-003** | Vehicle Digital Investigation | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
 
 <br>
 
@@ -108,6 +119,8 @@ CASE-003  Vehicle Digital Investigation      [ in progress ]
 
 *Every artifact tells a story. I'm just here to read it.*
 
-**[LinkedIn](#)** · **[Portfolio](#)** · **[Email](#)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8250df?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
