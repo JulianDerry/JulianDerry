@@ -1,70 +1,150 @@
-╔══════════════════════════════════════╗
-║          DIGITAL FORENSICS            ║
-║          INCIDENT RESPONSE             ║
-║          SOC OPERATIONS                ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        JULIAN DERRY                          ║
+║        DIGITAL FORENSICS ANALYST             ║
+║                                              ║
+║        DFIR  •  SOC  •  INCIDENT RESPONSE    ║
+║                                              ║
+║   Evidence Analysis | Threat Hunting | IR     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 
-        Julian Derry
-        DFIR Analyst | SOC Analyst
+                 [ CONNECT ]
+
+     LinkedIn     GitHub     Portfolio
 
 
-[ LinkedIn ] [ GitHub ] [ X ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-🕵️ PROFILE
-
-Digital investigations.
-Threat detection.
-Evidence analysis.
-Incident response.
+        ▣ ANALYST PROFILE
 
 
-┌─────────────────────────────────────┐
-│              SPECIALIZATIONS        │
-├─────────────────────────────────────┤
-│ 🪟 Windows Forensics                │
-│ 🧠 Memory Analysis                  │
-│ 📱 Mobile Forensics                 │
-│ 🍎 iOS Investigation                │
-│ 🚨 SOC Monitoring                   │
-│ 🔍 Threat Hunting                   │
-└─────────────────────────────────────┘
+        STATUS: ACTIVE
+
+        ROLE:
+        Digital Forensics Analyst
+
+        FOCUS:
+        ├─ Evidence Acquisition
+        ├─ Artifact Analysis
+        ├─ Timeline Reconstruction
+        ├─ Threat Detection
+        └─ Incident Response
 
 
-TOOLS
 
-[Magnet AXIOM] [Autopsy] [KAPE]
-[Volatility] [Cellebrite] [Splunk]
-[Sentinel] [Wireshark] [Python]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-CASE FILES
-
-📁 Windows Artifact Investigations
-
-📁 Memory Forensics Reports
-
-📁 Mobile Device Examinations
-
-📁 SOC Detection Labs
-
-📁 Incident Response Writeups
+        ▣ DIGITAL FORENSICS LAB
 
 
-STATISTICS
-
-GitHub Stats
-Contribution Graph
-Streak
-
-
-CURRENT OPERATIONS
-
-> Learning:
-> Detection Engineering
-> Malware Analysis
-> Advanced DFIR
+   ┌────────────────┐ ┌────────────────┐
+   │ WINDOWS        │ │ MEMORY         │
+   │ FORENSICS      │ │ FORENSICS      │
+   │                │ │                │
+   │ Registry       │ │ Volatility     │
+   │ MFT            │ │ Malware        │
+   │ Timeline       │ │ Processes      │
+   └────────────────┘ └────────────────┘
 
 
-"Every artifact leaves a trace."
+   ┌────────────────┐ ┌────────────────┐
+   │ MOBILE         │ │ VEHICLE        │
+   │ FORENSICS      │ │ FORENSICS      │
+   │                │ │                │
+   │ Android        │ │ IVI Systems    │
+   │ iOS            │ │ GPS            │
+   │ SQLite         │ │ Bluetooth      │
+   └────────────────┘
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ▣ SECURITY OPERATIONS
+
+
+        SIEM
+        ████████████████████
+
+        THREAT HUNTING
+        ███████████████░░░░
+
+        DETECTION ENGINEERING
+        ████████████░░░░░░░
+
+
+        Tools:
+
+        Splunk
+        Sentinel
+        KQL
+        Sigma
+        MITRE ATT&CK
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ▣ CASE FILES
+
+
+        CASE-001
+        Windows Artifact Investigation
+        [COMPLETED]
+
+
+        CASE-002
+        Memory Malware Analysis
+        [COMPLETED]
+
+
+        CASE-003
+        Vehicle Digital Investigation
+        [RESEARCH]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ▣ TOOLKIT
+
+
+        Magnet AXIOM
+        Cellebrite
+        Autopsy
+        KAPE
+        Volatility
+        FTK Imager
+        Python
+        PowerShell
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ▣ CURRENT OPERATIONS
+
+
+        > Advanced Memory Analysis
+
+        > SOC Detection Engineering
+
+        > Malware Investigation
+
+        > Digital Evidence Reporting
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             "Every artifact
+              tells a story."
