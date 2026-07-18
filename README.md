@@ -11,7 +11,7 @@
 Digital Forensics Analyst specializing in DFIR, SOC operations, and incident response.
 
 ![Status](https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge)
-![Role](https://img.shields.io/badge/role-Digital%20Forensics%20Analyst-1f6feb?style=for-the-badge)
+![Role](https://img.shields.io/badge/role-Digital%20Forensics%20Analyst-1f6feb?style=for-the-badge)<br>
 ![Focus](https://img.shields.io/badge/focus-DFIR%20%7C%20SOC%20%7C%20IR-8250df?style=for-the-badge)
 
 </div>
