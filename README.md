@@ -1,123 +1,94 @@
-<!--
-  Julian Derry — GitHub Profile README
--->
+Julian Derry
+Digital Forensics Analyst · Accra, Ghana Licensed by the Cyber Security Authority, Ghana
 
-<div align="center">
+Every deleted file, wiped log, and "nothing happened here" claim leaves a trace. I find it, and I document what it proves.
 
-# Digital Forensics & SOC Portfolio
+I work registry artifacts, memory images, mobile extractions, and system logs to reconstruct what actually happened on a device, then write it up so the reconstruction holds under scrutiny.
 
-**I find what other people try to hide.**
+Open to Digital Forensics Analyst and Incident Response roles. Ghana or remote.
 
-Digital Forensics Analyst specializing in DFIR, SOC operations, and incident response.
 
-![Status](https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge)
-![Role](https://img.shields.io/badge/role-Digital%20Forensics%20Analyst-1f6feb?style=for-the-badge)<br>
-![Focus](https://img.shields.io/badge/focus-DFIR%20%7C%20SOC%20%7C%20IR-8250df?style=for-the-badge)
+Credentials
+Credential
+Issuer
+Date
+Verify
+Licensed Digital Forensics Professional
+Cyber Security Authority, Ghana
+May 2026
+[ID]
+ISC2 Certified in Cybersecurity (CC)
+ISC2
+Jul 2024
+[ID]
+Google Cybersecurity Certificate
+Coursera
+Jul 2023
+al-cert/PMTTGTB3Q5HM
+Certified Computer Forensics Analyst, completion
+eSecurity Institute
+Jun 2026
+ujcipgghb2
+BSc Information Technology
+University of Ghana
+2013 to 2017
 
-</div>
 
-<br>
 
-## Toolkit
 
-![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-e63946?style=for-the-badge)
-![Cellebrite UFED](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-e76f51?style=for-the-badge)
-![Eric Zimmerman's Tools](https://img.shields.io/badge/EricZimmerman'sTools-f4a261?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge)
-![Belkasoft ](https://img.shields.io/badge/Belkasoft-457b9d?style=for-the-badge)
 
-<br>
+What I Do
+Windows forensics. Registry artifacts, $MFT and USN journal timelines, prefetch, event log reconstruction.
 
-## What I do
+Mobile forensics. Physical and logical extractions, SQLite recovery including deleted records from WAL, app artifact analysis across iOS and Android.
 
-I reconstruct what happened on disk, in memory, on a phone, or in a car's infotainment system, and turn it into evidence that holds up. My work spans the full incident lifecycle: acquisition, analysis, detection, and reporting.
+Memory forensics. Process analysis, injection detection, network artifact recovery from RAM images.
 
-```
-acquire evidence → analyze artifacts → reconstruct timeline → detect threats → report findings
-```
+Network forensics. Packet capture analysis, protocol reconstruction, identifying exfiltration and command traffic in PCAP.
 
-<br>
+Evidence integrity. Acquisition hashing and verification, chain of custody documentation from seizure through final report.
 
-## Where I work
+Reporting. Investigative reports that separate what the evidence proves from what it suggests, and state plainly what could not be determined.
 
-<table>
-<tr>
-<td width="25%" valign="top">
+Tooling
 
-**Windows**
-- Registry analysis
-- MFT parsing
-- Timeline reconstruction
 
-</td>
-<td width="25%" valign="top">
 
-**Memory**
-- Volatility framework
-- Malware triage
-- Process/network analysis
 
-</td>
-<td width="25%" valign="top">
 
-**Mobile**
-- Android & iOS
-- SQLite carving
-- App artifact analysis
+Disk and artifacts
+Autopsy · Eric Zimmerman Tools
+Memory
+Volatility
+Mobile
+Cellebrite UFED · Magnet AXIOM
+Network
+Wireshark
 
-</td>
-<td width="25%" valign="top">
 
-**Vehicle**
-- IVI systems
-- GPS history
-- Bluetooth pairing logs
+Additional exposure through training: Oxygen Forensic Detective, MOBILedit, Belkasoft Evidence Reader. Listed above once a case study in this account demonstrates them.
 
-</td>
-</tr>
-</table>
 
-<br>
+Current Work
+Digital Forensics Analyst, Internship · HIVE Consult, Accra · Jan 2026 to present
 
-## SOC & detection
+Hands on DFIR casework across Windows, mobile, cloud, and vehicle data. Six forensic case studies completed to date, built on constructed scenarios modeling real world threats. Sole investigator on four, lead analyst in a two person team on two.
 
-| Area |
-|---|
-| SIEM (Splunk, Sentinel) | 
-| Threat Hunting |
-| Detection Engineering (KQL) |
-Mapped against **MITRE ATT&CK** throughout.
 
-<br>
+Background
+Founder · CodeOff Technologies · Jun 2018 to Jan 2026 [ONE FACTUAL LINE. What it was and what it did. No adjectives.]
 
-## Case files
+IT Support and Hardware Technician · Bank of Africa Ghana · Jul 2017 to Mar 2018 Endpoint and hardware support under SLA in a retail banking environment.
 
-| Case | Description | Status |
-|---|---|---|
-| **CASE-001** | Windows Artifact Investigation | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
-| **CASE-002** | Memory Malware Analysis | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
-| **CASE-003** | Vehicle Digital Investigation | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
 
-<br>
+Case Studies
+Writeups in progress. Each covers acquisition and hash verification, chain of custody, the artifacts examined, what the evidence proved, what it did not, and what I would do differently.
 
-## Right now
+All case studies are training work. That is stated in every repo.
 
-- 🔬 Deep-diving advanced memory forensics techniques
-- 🧵 Writing up malware investigation case studies
-- 📝 Sharpening digital evidence reporting for court/legal standards
+First writeup ships shortly. Links land here as they publish.
 
-<br>
 
----
+Contact
+LinkedIn · X @CyberSamuraiDev
 
-<div align="center">
-
-*Every artifact tells a story. I'm just here to read it.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8250df?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
