@@ -96,8 +96,8 @@ Mapped against **MITRE ATT&CK** throughout.
 
 | Case | Description | Status |
 |---|---|---|
-| **CASE-001** | Windows Artifact Investigation | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
-| **CASE-002** | Memory Malware Analysis | ![Done](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
+| **CASE-001** | Windows Artifact Investigation | ![In Progress](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
+| **CASE-002** | Memory Malware Analysis | ![In Progress](https://img.shields.io/badge/done-2ea44f?style=flat-square) |
 | **CASE-003** | Vehicle Digital Investigation | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
 
 <br>
