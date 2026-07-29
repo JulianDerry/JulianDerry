@@ -99,7 +99,8 @@ Hands on DFIR casework across Windows, mobile, cloud, and vehicle data. Six fore
 <br>
 
 ## Background
-**Founder** · CodeOff Technologies · Jun 2018 to Jan 2026 [ONE FACTUAL LINE. What it was and what it did. No adjectives.]
+**Founder** · CodeOff Technologies · Jun 2018 to Jan 2026 A technology services business that provided software, IT support, and digital solutions to clients.
+
 
 **IT Support and Hardware Technician** · Bank of Africa Ghana · Jul 2017 to Mar 2018 Endpoint and hardware support under SLA in a retail banking environment.
 
@@ -115,8 +116,8 @@ All case studies are training work. That is stated in every repo.
 
 *Every artifact tells a story. I'm just here to read it.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8250df?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-derry-936271312/)
+[![X.com](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CyberSamuraiDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jderry.dev@gmail.com)
 
 </div>
