@@ -95,13 +95,6 @@ acquire evidence → analyze artifacts → reconstruct timeline → detect threa
 
 Hands on DFIR casework across Windows, mobile, cloud, and vehicle data. Six forensic case studies completed to date, built on constructed scenarios modeling real world threats. Sole investigator on four, lead analyst in a two person team on two.
 
-## Case files
-
-| Case | Description | Status |
-|---|---|---|
-| **CASE-001** | Windows Artifact Investigation | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
-| **CASE-002** | Memory Malware Analysis | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
-| **CASE-003** | Vehicle Digital Investigation | ![In Progress](https://img.shields.io/badge/in_progress-1f6feb?style=flat-square) |
 
 <br>
 
