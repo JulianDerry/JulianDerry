@@ -13,6 +13,15 @@ I work registry artifacts, memory images, mobile extractions, and system logs to
 
 **Open to Digital Forensics Analyst and Incident Response roles. Ghana or remote.**
 
+# Certifications
+
+| Credential | Issuer | Date | Verification |
+|------------|--------|------|--------------|
+| **Licensed Digital Forensics Professional** | Cyber Security Authority, Ghana | May 2026 | CSA/572/3GA/723-86426 |
+| **Google Cybersecurity Certificate** | Coursera | Jul 2023 | https://www.credly.com/badges/b71ad0a3-12e4-46e0-8a72-d31abad30b62/print |
+| **Certified Computer Forensics Analyst (Completion)** | eSecurity Institute | Jun 2026 | https://app.esecurityinstitute.com/certificates/ujcipgghb2 |
+| **Security+** | Comptia | In progress | -- |
+
 </div>
 
 <br >
@@ -40,8 +49,6 @@ acquire evidence → analyze artifacts → reconstruct timeline → detect threa
 ```
 
 <br>
-
-## Where I work
 
 <table>
 <tr>
@@ -82,16 +89,11 @@ acquire evidence → analyze artifacts → reconstruct timeline → detect threa
 
 <br>
 
-## SOC & detection
+## Current Work
 
-| Area |
-|---|
-| SIEM (Splunk, Sentinel) | 
-| Threat Hunting |
-| Detection Engineering (KQL) |
-Mapped against **MITRE ATT&CK** throughout.
+**Digital Forensics Analyst, Internship** · HIVE Consult, Accra · Jan 2026 to present
 
-<br>
+Hands on DFIR casework across Windows, mobile, cloud, and vehicle data. Six forensic case studies completed to date, built on constructed scenarios modeling real world threats. Sole investigator on four, lead analyst in a two person team on two.
 
 ## Case files
 
@@ -103,13 +105,16 @@ Mapped against **MITRE ATT&CK** throughout.
 
 <br>
 
-## Right now
+## Background
+**Founder** · CodeOff Technologies · Jun 2018 to Jan 2026 [ONE FACTUAL LINE. What it was and what it did. No adjectives.]
 
-- 🔬 Deep-diving advanced memory forensics techniques
-- 🧵 Writing up malware investigation case studies
-- 📝 Sharpening digital evidence reporting for court/legal standards
+**IT Support and Hardware Technician** · Bank of Africa Ghana · Jul 2017 to Mar 2018 Endpoint and hardware support under SLA in a retail banking environment.
 
-<br>
+## Case Studies
+
+Writeups in progress. Each covers acquisition and hash verification, chain of custody, the artifacts examined, what the evidence proved, what it did not, and what I would do differently.
+
+All case studies are training work. That is stated in every repo.
 
 ---
 
