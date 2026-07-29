@@ -4,21 +4,20 @@
 
 <div align="center">
 
-# Digital Forensics & SOC Portfolio
+# Julian Derry
+# Digital Forensics Analyst · Accra, Ghana Licensed by the Cyber Security Authority, Ghana
 
-**I find what other people try to hide.**
+Every deleted file, wiped log, and "nothing happened here" claim leaves a trace. I find it, and I document what it proves.
 
-Digital Forensics Analyst specializing in DFIR, SOC operations, and incident response.
+I work registry artifacts, memory images, mobile extractions, and system logs to reconstruct what actually happened on a device, then write it up so the reconstruction holds under scrutiny.
 
-![Status](https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge)
-![Role](https://img.shields.io/badge/role-Digital%20Forensics%20Analyst-1f6feb?style=for-the-badge)<br>
-![Focus](https://img.shields.io/badge/focus-DFIR%20%7C%20SOC%20%7C%20IR-8250df?style=for-the-badge)
+**Open to Digital Forensics Analyst and Incident Response roles. Ghana or remote.**
 
 </div>
 
-<br>
+<br >
 
-## Toolkit
+## <div align="center"> Toolkit </div>
 
 ![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-e63946?style=for-the-badge)
 ![Cellebrite UFED](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge)
@@ -27,6 +26,8 @@ Digital Forensics Analyst specializing in DFIR, SOC operations, and incident res
 ![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge)
 ![Belkasoft ](https://img.shields.io/badge/Belkasoft-457b9d?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-e76f51?style=for-the-badge)
+![Oxygen Detective](https://img.shields.io/badge/Oxygen-2a9d8f?style=for-the-badge)
 
 <br>
 
