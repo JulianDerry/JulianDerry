@@ -37,6 +37,7 @@ I work registry artifacts, memory images, mobile extractions, and system logs to
 ![Belkasoft ](https://img.shields.io/badge/Belkasoft-457b9d?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-e76f51?style=for-the-badge)
 ![Oxygen Detective](https://img.shields.io/badge/Oxygen-2a9d8f?style=for-the-badge)
+![Mobiledit](https://img.shields.io/badge/Mobiledit-457b9d?style=for-the-badge)
 
 <br>
 
