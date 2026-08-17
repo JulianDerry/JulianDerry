@@ -20,7 +20,7 @@ I work across computer, mobile, memory, email, USB, and vehicle forensics to rec
 | **Licensed Digital Forensics Professional** | Cyber Security Authority, Ghana | CSA/572/3GA/723-86426 |
 | **Certified Computer Forensics Analyst (CCFA)** | eSecurity Institute | https://app.esecurityinstitute.com/certificates/ujcipgghb2 |
 | **Google Cybersecurity Certificate** | Coursera | https://www.credly.com/badges/b71ad0a3-12e4-46e0-8a72-d31abad30b62/print |
-| **Securit+** | Comptia | In Progress |
+| **Security+** | Comptia | In Progress |
 
 </div>
 
