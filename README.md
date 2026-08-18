@@ -59,30 +59,13 @@ Where automated output is used, important findings are manually checked against 
 
 ## Featured Investigations
 
-### 💻 Computer Forensics
-Windows forensic investigations covering file-system analysis, Registry artifacts, user activity, data recovery, hashing, NTFS and timeline analysis.
-
-**[Explore Computer Forensics →](https://github.com/JulianDerry/computer-forensics)**
-
-### 📱 Mobile Forensics
-Android and iOS forensic work covering Cellebrite UFED workflows, logical and file-system extraction, SQLite and application artifacts.
-
-**[Explore Mobile Forensics →](https://github.com/JulianDerry/mobile-forensics)**
-
-### ✉️ Email Forensics
-Email authentication and phishing investigation work covering headers, delivery paths, SPF, DKIM, DMARC, URL analysis and evidence validation.
-
-**[Explore Email Forensics →](https://github.com/JulianDerry/email-forensics)**
-
-### 🚗 Vehicle Forensics
-Automotive digital investigations involving infotainment systems, connected devices, GPS, Bluetooth and user activity reconstruction.
-
-**[Explore Vehicle Forensics →](https://github.com/JulianDerry/vehicle-forensics)**
-
-### ☁️ Cloud Forensics
-Dedicated workspace for cloud evidence, platform logs, SaaS forensics and cloud-native incident-response research.
-
-**[Explore Cloud Forensics →](https://github.com/JulianDerry/cloud-forensics)**
+| Investigations | Summary | Link |
+|------------------|--------|------|
+| **Computer Forensics** | Windows forensic investigations covering file-system analysis, Registry artifacts, user activity, data recovery, hashing, NTFS and timeline analysis. | **[Explore Computer Forensics →](https://github.com/JulianDerry/computer-forensics)** |
+| **Mobile Forensics** | Windows forensic investigations covering file-system analysis, Registry artifacts, user activity, data recovery, hashing, NTFS and timeline analysis. | **[Explore Mobile Forensics →](https://github.com/JulianDerry/mobile-forensics)** |
+| **Email Forensics** | Email authentication and phishing investigation work covering headers, delivery paths, SPF, DKIM, DMARC, URL analysis and evidence validation. | **[Explore Email Forensics →](https://github.com/JulianDerry/email-forensics)** |
+| **Vehicle Forensics** | Automotive digital investigations involving infotainment systems, connected devices, GPS, Bluetooth and user activity reconstruction. | **[Explore Vehicle Forensics →](https://github.com/JulianDerry/vehicle-forensics)** |
+| **Cloud Forensics** | Dedicated workspace for cloud evidence, platform logs, SaaS forensics and cloud-native incident-response research. | **[Explore Cloud Forensics →](https://github.com/JulianDerry/cloud-forensics)** |
 
 ---
 
