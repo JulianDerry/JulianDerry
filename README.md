@@ -85,42 +85,6 @@ The portfolio is being organized around professional forensic capabilities rathe
 | Vehicle / IVI Forensics |  |  |
 | Cloud Forensics |   |  |
 | Windows Disk Forensics |  |  |
-### 🔎 Investigations
-
-- Windows Disk Forensics
-- Windows Registry & User Activity
-- Browser Forensics
-- Windows Event Log Investigation
-- USB Exfiltration Investigation
-- Memory Forensics
-- Phishing Email Investigation
-- Incident Response Investigation
-- Android Forensics
-- iOS Full File System Forensics
-- Vehicle / IVI Forensics
-- Cloud Forensics
-
-### 🛠️ DFIR Engineering
-
-- Windows Artifact Parser
-- DFIR Timeline Correlator
-- Email Header / Infrastructure Analyzer
-- File Signature / Extension Mismatch Detector
-- Forensic Message Viewer
-- Evidence Hash & Integrity Verifier
-- Forensic Report Generator
-
-### 🧪 Artifact Research
-
-- Windows Registry artifacts
-- NTFS artifacts
-- Browser artifacts
-- Windows Event Logs
-- Memory artifacts
-- Email authentication
-- Mobile application artifacts
-- SQLite forensic analysis
-
 ---
 
 ## Current Work
@@ -146,11 +110,15 @@ Current work includes forensic artifact examination, evidence analysis, timeline
 
 ## Toolkit
 
-**Digital Forensics:** Magnet AXIOM · Cellebrite UFED · Autopsy · FTK Imager · KAPE · Volatility 3 · MFTECmd · Belkasoft · MobileEdit
+**Digital Forensics:** <br>
+![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-e63946?style=for-the-badge) ![Cellebrite UFED](https://img.shields.io/badge/Cellebrite-2a9d8f?style=for-the-badge) ![Autopsy](https://img.shields.io/badge/Autopsy-e76f51?style=for-the-badge) ![Eric Zimmerman's Tools](https://img.shields.io/badge/EricZimmerman'sTools-f4a261?style=for-the-badge) ![Volatility](https://img.shields.io/badge/Volatility-264653?style=for-the-badge) ![FTK Imager](https://img.shields.io/badge/FTK_Imager-457b9d?style=for-the-badge) ![Belkasoft ](https://img.shields.io/badge/Belkasoft-457b9d?style=for-the-badge) ![Oxygen Detective](https://img.shields.io/badge/Oxygen-2a9d8f?style=for-the-badge) ![Mobiledit](https://img.shields.io/badge/Mobiledit-457b9d?style=for-the-badge)
 
-**Technical:** Python · PowerShell · SQLite · Windows · Kali Linux
 
-**Forensic Focus:** Windows · Mobile · Memory · Email · Browser · USB · Vehicle · Cloud
+**Technical:** <br> 
+![Python](https://img.shields.io/badge/Python-e63946?style=for-the-badge) ![PowerShell](https://img.shields.io/badge/PowerShell-457b9d?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-2a9d8f?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-e63946?style=for-the-badge) ![Kali Linux](https://img.shields.io/badge/Kali-Linux-457b9d?style=for-the-badge)
+
+**Forensic Focus:** <br> 
+![Windows](https://img.shields.io/badge/Windows-f4a261?style=for-the-badge) ![Mobile](https://img.shields.io/badge/Mobile-264653?style=for-the-badge) ![Memory](https://img.shields.io/badge/Memory-2a9d8f?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-457b9d?style=for-the-badge) ![Browser](https://img.shields.io/badge/Browser-f4a261?style=for-the-badge) ![USB](https://img.shields.io/badge/USB-457b9d?style=for-the-badge) ![Vehicle](https://img.shields.io/badge/Vehicle-e63946?style=for-the-badge) ![Cloud](https://img.shields.io/badge/Cloud-2a9d8f?style=for-the-badge)
 
 ---
 
