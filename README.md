@@ -135,11 +135,11 @@ Current work includes forensic artifact examination, evidence analysis, timeline
 
 ## Certifications
 
-| Credential | Issuer | Status |
+| Credential | Issuer | Verfication |
 |---|---|---|
-| **Licensed Digital Forensics Professional** | Cyber Security Authority, Ghana | Licensed · May 2026 |
-| **Certified Computer Forensics Analyst (CCFA)** | eSecurity Institute | Completed · Jun 2026 |
-| **Google Cybersecurity Certificate** | Coursera | Completed · Jul 2023 |
+| **Licensed Digital Forensics Professional** | Cyber Security Authority, Ghana | CSA/572/3GA/723-86426 |
+| **Certified Computer Forensics Analyst (CCFA)** | eSecurity Institute | https://www.credly.com/badges/b71ad0a3-12e4-46e0-8a72-d31abad30b62 |
+| **Google Cybersecurity Certificate** | Coursera | https://app.esecurityinstitute.com/certificates/ujcipgghb2 |
 | **Security+** | CompTIA | In Progress |
 
 ---
