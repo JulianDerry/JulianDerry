@@ -19,7 +19,6 @@ I examine digital evidence across computer, mobile, memory, email, removable med
 | Area | Focus |
 |---|---|
 | 🔎 **DFIR Investigations** | Windows, browser, USB, memory, email, mobile, vehicle, cloud and incident investigations |
-| 🛠️ **Forensic Tool Development** | Python and PowerShell tools for artifact analysis, evidence processing, automation and reporting |
 | 🪟 **Windows Forensics** | Registry, NTFS, MFT, timelines, user activity and Windows artifacts |
 | 🧠 **Memory Forensics** | Volatility, process analysis, network analysis and malware triage |
 | 📱 **Mobile Forensics** | Android, iOS, SQLite and application artifacts |
@@ -67,33 +66,25 @@ Where automated output is used, important findings are manually checked against 
 | **Vehicle Forensics** | Automotive digital investigations involving infotainment systems, connected devices, GPS, Bluetooth and user activity reconstruction. | **[Explore Vehicle Forensics →](https://github.com/JulianDerry/vehicle-forensics)** |
 | **Cloud Forensics** | Dedicated workspace for cloud evidence, platform logs, SaaS forensics and cloud-native incident-response research. | **[Explore Cloud Forensics →](https://github.com/JulianDerry/cloud-forensics)** |
 
----
-
-## Forensic Tool Development
-
-I build independent tools to automate repetitive DFIR tasks while keeping the underlying evidence available for manual validation.
-
-### Current and planned tooling
-
-- **File Extension Mismatch Detector**
-- **Email Origin / Header Analyzer**
-- **USB Forensic Timeline Analyzer**
-- **Windows Registry Analysis Tools**
-- **Forensic Message Viewer**
-- **DFIR Report Generator**
-- **Evidence Processing Automation**
-- **Windows Forensic Artifact Parser**
-- **DFIR Timeline Correlator**
-- **Evidence Integrity Verifier**
-
-The tools are intended to assist the investigator, not replace forensic examination.
-
----
 
 ## Investigation Portfolio Roadmap
 
 The portfolio is being organized around professional forensic capabilities rather than a collection of unrelated exercises.
 
+| 🔎 Investigations | 🛠️ DFIR Engineering | 🧪 Artifact Research |
+|------------------|----------------|--------------|
+| Windows Disk Forensics | Windows Artifact Parser | Windows Registry artifacts |
+| Windows Registry & User Activity | DFIR Timeline Correlator | NTFS artifacts |
+| Browser Forensics | Email Header / Infrastructure Analyzer | Browser artifacts |
+| Windows Event Log Investigation | File Signature / Extension Mismatch Detector | Windows Event Logs |
+| USB Exfiltration Investigation | Forensic Message Viewer | Memory artifacts |
+| Phishing Email Investigation | Evidence Hash & Integrity Verifier | Email authentication |
+| Incident Response Investigation | Forensic Report Generator | Mobile application artifacts |
+| Android Forensics |  | SQLite forensic analysis |
+| iOS Full File System Forensics |  |  |
+| Vehicle / IVI Forensics |  |  |
+| Cloud Forensics |   |  |
+| Windows Disk Forensics |  |  |
 ### 🔎 Investigations
 
 - Windows Disk Forensics
