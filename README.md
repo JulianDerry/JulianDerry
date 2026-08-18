@@ -27,6 +27,14 @@ I examine digital evidence across computer, mobile, memory, email, removable med
 | ☁️ **Cloud Forensics** | Cloud evidence, logs and incident-response workflows |
 
 ---
+## Forensic Tool Development
+- **File Extension Mismatch Detector (HeaderHound)**
+- **Email Origin / Header Analyzer (MailTrace)**
+
+I build independent tools to automate repetitive DFIR tasks while keeping the underlying evidence available for manual validation.
+---
+
+### Current and planned tooling
 
 ## Forensic Methodology
 
