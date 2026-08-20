@@ -30,6 +30,7 @@ I examine digital evidence across computer, mobile, memory, email, removable med
 ## Forensic Tool Development
 - **File Extension Mismatch Detector (HeaderHound)**
 - **Email Origin / Header Analyzer (MailTrace)**
+- - **Hash Value Calculator**
 
 I build independent tools to automate repetitive DFIR tasks while keeping the underlying evidence available for manual validation.
 ---
