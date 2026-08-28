@@ -178,6 +178,6 @@ I am building toward a career in **Digital Forensics, DFIR and Incident Response
 
 *Every artifact tells a story. I'm here to read it, correlate it, and document what it proves.*
 
-[LinkedIn](https://www.linkedin.com/in/julian-derry-936271312/) · [X](https://x.com/CyberSamuraiDev) · [Email](mailto:jderry.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-derry-936271312/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CyberSamuraiDev)
 
 </div>
